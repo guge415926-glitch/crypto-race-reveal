@@ -164,3 +164,4 @@
 2025-11-07 17:40:32 - feat: Add ErrorBoundary component
 2025-11-07 17:40:32 - fix: Fix contractAddress in PreviousRoundResult component
 2025-11-07 17:40:33 - fix: Fix contractAddress in RoundSummary component
+2025-11-07 17:40:33 - feat: Add dynamic contract address selection
